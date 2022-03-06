@@ -4,7 +4,7 @@
 
     1.1: Baixe todos os arquivos da pasta
   
-    1.2: Abra o o VisualG
+    1.2: Abra o arquivo "visualgv25"
   
 2- No VisualG:
 
