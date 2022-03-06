@@ -10,7 +10,7 @@
 
     2.1: Vá na aba de nome arquivo, no canto superior direito, e depois em abrir. Ou apenas aperte a tecla Control+A
   
-    2.2: Selecione o diretório no qual as questões estão localizadas, neste caso, elas estão na própria pasta em que VisualG está inserido
+    2.2: Selecione o diretório no qual as questões estão localizadas, neste caso, elas estão na própria pasta em que o VisualG está inserido
   
     2.3: Em seguida, selecione o arquivo que você quer abrir. No caso: Questao1.alg, Questao2.alg ou Questao3.alg
     
