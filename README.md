@@ -15,7 +15,7 @@
     2.3: Em seguida, selecione o arquivo que você quer abrir. No caso: Questao1.alg, Questao2.alg ou Questao3.alg
     
     2.4: Para executar o algorítmo, aperta a tecla F9. Para encerrá-lo aperte a tecla Control+F2. Ou, se preferir, clique na aba localizada no topo da tela, chamada "algorítimo",
-    Lá estarão as opções de como rodar o código.
+         Lá estarão as opções de execução do código.
   
   O VisualG é um programa para iniciantes na programação, feito para facilitar o aprendizado na lógica de programação. Seu código é feito em pseudolinguagem,
  conhecida como portugol. Nela, os comandos do programa são mostrados em português.
